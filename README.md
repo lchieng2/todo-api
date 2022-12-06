@@ -2,7 +2,7 @@
 
 **The Project** : An API for a task management / todo list.
 
- Implemented an API using Node, Express and Mongoose.
+ Implemented using Node, Express and Mongoose.
 
 
 | Endpoints| Actions | Intended Outcome                                    |
