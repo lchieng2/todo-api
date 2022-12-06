@@ -2,8 +2,6 @@
 
 **The Project** : An API for a task management / todo list.
 
-#### Task
-
  Implemented an API using Node, Express and Mongoose.
 
 
